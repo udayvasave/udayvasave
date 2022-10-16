@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uday Vasave</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i33toc71is2z6ji9nzp6ywbnm6tokdhsguax85w1&rid=giphy.gif&ct=g"/>
 - 🔭 I’m currently working on **Frontend mini projects**
 
